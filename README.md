@@ -1,4 +1,4 @@
-# Cvičení 10
+# Cvičení 9
 **Úkol 1:**
 - Načtěte obraz ‘okruh.png’ a převeďte jej do šedotónového
 - Nastavte vhodnou pozici semínka na vysegmentování cest okruhu
